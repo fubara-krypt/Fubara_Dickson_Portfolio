@@ -1,12 +1,17 @@
 Portfolio Development
+
 Overview:
 This project is a showcase of my skills, achievements, and experiences as a designer and developer. It serves as both a portfolio for potential clients or employers to view my work and as a demonstration of my capabilities in design and development.
 
 Features:
 Responsive Design: The portfolio is designed to be fully responsive, ensuring optimal viewing and interaction experiences across a wide range of devices and screen sizes.
+
 Interactive Elements: Engaging interactive elements are incorporated to provide an immersive experience for visitors, including animations, hover effects, and interactive navigation.
+
 Portfolio Showcase: A curated selection of my best projects is showcased, highlighting my expertise in various areas such as web design, UI/UX design, and front-end development.
+
 About Me Section: An informative section introducing myself, my background, skills, and interests, providing visitors with insights into who I am as a professional.
+
 Contact Form: A contact form is included to facilitate communication between visitors and myself, allowing potential clients or collaborators to reach out easily.
 
 Technologies Used:
