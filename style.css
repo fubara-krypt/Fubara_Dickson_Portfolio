@@ -172,7 +172,7 @@ p {
 
 .project-wrapper {
   display: flex;
-  max-width: 1120px;
+  width: 100%;
   flex-direction: column;
   align-items: flex-start;
   border-radius: 8px;
