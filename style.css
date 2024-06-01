@@ -68,6 +68,15 @@ h3 {
   line-height: 124%; /* 79.333px */
 }
 
+h4 {
+  color: black;
+  font-family: TangoSans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 124%; /* 79.333px */
+}
+
 button {
   background-color: transparent;
   display: flex;
