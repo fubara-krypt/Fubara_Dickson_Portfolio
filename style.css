@@ -48,27 +48,24 @@ h1 {
   font-style: normal;
   font-weight: 400;
   line-height: 123.958%;
-  letter-spacing: -0.96px;
 }
 
 h2 {
   color: var(--Gray-900, #101828);
   font-family: TangoSans;
-  font-size: 18px;
+  font-size: 32pxpx;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
 
 h3 {
-  width: 800px;
-  color: var(--Gray-25, #fcfcfd);
+  color: black;
   font-family: TangoSans;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: 124%; /* 79.333px */
-  letter-spacing: -1.28px;
 }
 
 button {
@@ -100,14 +97,24 @@ button {
   font-weight: 600;
 }
 
-p {
+.p-small {
   color: var(--Gray-600, #475467);
   font-family: satoshi;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 30px; /* 150% */
 }
+
+.p-large {
+    color: var(--Gray-600, #475467);
+    font-family: satoshi;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+  }
+  
 
 /* Hero Section */
 
@@ -131,6 +138,8 @@ p {
 }
 
 .hero-paragraph {
+  color: black;
+  font-family: satoshi;
   display: flex;
   max-width: 667px;
 }
@@ -282,4 +291,8 @@ footer {
   align-items: flex-start;
   gap: 32px;
   align-self: stretch;
+}
+
+.a-school-work {
+  font-size: 32px;
 }
