@@ -25,6 +25,8 @@ header {
   height: 40px;
 }
 
+/* Nav Component */
+
 nav {
   display: flex;
   width: 100%;
@@ -269,9 +271,9 @@ footer {
 
 .ed-section {
   display: flex;
-flex-direction: column;
-align-items: flex-start;
-gap: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
 }
 
 .school-wrapper {
